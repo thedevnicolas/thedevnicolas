@@ -15,7 +15,10 @@
   <img align="center" alt="Nico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nico-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />      
   <img align="center" alt="Nico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110689312/189521733-cd1e0b87-ea1e-48b2-81ec-8dd0cdb52e45.png">
+  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110689312/189521665-86dcdafa-ce77-4853-a9d8-0c7b9973e86b.png">
  </div>
+
  
  
  
