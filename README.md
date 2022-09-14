@@ -1,10 +1,9 @@
-## Hi there, Meu nome é Nicolas 👋 
+## Wassup there? ;) Meu nome é Nicolas 👋
 
 <div align="center">
   <a href="https://github.com/thedevnicolas">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?
-  username=thedevnicolas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevnicolas&layout=compact&langs_count=7&theme=algolia"/>
+  <img widht="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=thedevnicolas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevnicolas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
