@@ -27,7 +27,6 @@
  
 <div> 
   <a href = "mailto:nicolasoliveira3002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/Kaer#3635" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/devnicolasoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110689312/189521733-cd1e0b87-ea1e-48b2-81ec-8dd0cdb52e45.png">
   <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110689312/189521665-86dcdafa-ce77-4853-a9d8-0c7b9973e86b.png">
