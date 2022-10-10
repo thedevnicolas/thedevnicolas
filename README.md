@@ -1,11 +1,5 @@
 ## Wassup there? ;) Meu nome é Nicolas 👋
 
-  <div align="flex-start">
-  
-![](https://komarev.com/ghpvc/?username=thedevnicolas&style=for-the-badge)
-
-  </div>
-
 <div align="center">
   <a href="https://github.com/thedevnicolas">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=thedevnicolas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
