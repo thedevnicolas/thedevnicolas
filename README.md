@@ -1,34 +1,30 @@
-## Wassup there? ;) Meu nome é Nicolas 👋
+<p align="left">
+<a href="https://github.com/thedevnicolas">
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=thedevnicolas&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=thedevnicolas&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+ <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedevnicolas&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=thedevnicolas&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
+</p>
 
-<div align="center">
-  <a href="https://github.com/thedevnicolas">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=thedevnicolas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevnicolas&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-  
+## about.me
+<p align="justify">
+Uma pequena introdução sobre mim: Sou um jovem nascido no sudeste do Brasil, cujo desejo é crescer profissionalmente e como pessoa, sou um grande entusiasta quando se trata de livros, músicas e arte, e muito fã de tecnologia e jogos.
 
-### Tecnologias que tenho conhecimento:
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-          
-#
-
-### Tecnologias que estou estudando:
-  <img align="center" alt="JavScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
-</div>
+No momento, estou estudando Desenvolvimento Web Front-End mas com vontade de trabalhar na área de Back-End também futuramente, quero poder ajudar nas soluções de problemas complexos com métodos simples.
+</p>
 
  
+
+## techs && skills
+<p align="justify"><a href="https://github.com/thedevnicolas">
+ <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
+ <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
+ <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
  
- 
- ##
- 
-<div> 
-  <a href = "mailto:nicolasoliveira3002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devnicolasoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110689312/189521733-cd1e0b87-ea1e-48b2-81ec-8dd0cdb52e45.png">
-  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110689312/189521665-86dcdafa-ce77-4853-a9d8-0c7b9973e86b.png">
-</div>
+## social && contact
+<p align="justify">
+<a href="https://www.linkedin.com/in/devnicolasoliveira/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+<a href="mailto:nicolasoliveira3002@gmail.com"><img src="https://img.shields.io/badge/gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=0077B5"/></a>
+<a href="https://t.me/ironside_man"><img src="https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a>
+</p>
+
+
