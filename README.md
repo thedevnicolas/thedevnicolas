@@ -1,3 +1,6 @@
+## Olá, Sou o Nicolas! 
+<p>Sou desenvolvedor, programador ou software developer, como preferir, só não vale a piadinha do garoto de programa, hein?</p>
+
 <p align="left">
 <a href="https://github.com/thedevnicolas">
 <img width="56%" src="https://github-readme-stats.vercel.app/api?username=thedevnicolas&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=thedevnicolas&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
@@ -27,4 +30,6 @@ No momento, estou estudando Desenvolvimento Web Front-End mas com vontade de tra
 <a href="https://t.me/ironside_man"><img src="https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a>
 </p>
 
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/51abf316f3774cd974d0b20c766649d2.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
+<p>See you!</p>
