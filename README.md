@@ -1,5 +1,5 @@
 ## Olá, Sou o Nicolas! 
-<p>Sou desenvolvedor, programador ou software developer, como preferir, só não vale a piadinha do garoto de programa, hein?</p>
+<p>Sou desenvolvedor, programador ou software developer, como preferir.</p>
 
 <p align="left">
 <a href="https://github.com/thedevnicolas">
@@ -21,6 +21,12 @@ No momento, estou estudando Desenvolvimento Web Front-End mas com vontade de tra
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
  <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
  <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+ <img alt="Git" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
+ <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=GitHub"/>
+ <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%230d1117.svg?style=for-the-badge&logo=Adobe Photoshop"/>
+ <img alt="Figma" src="https://img.shields.io/badge/Figma-%230d1117.svg?style=for-the-badge&logo=Figma"/>
+ <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%230d1117.svg?style=for-the-badge&logo=Netlify"/>
+ <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%230d1117.svg?style=for-the-badge&logo=Vercel"/>
 </p>
  
 ## social && contact
