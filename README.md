@@ -1,5 +1,5 @@
 ## Olá, Sou o Nicolas! 
-<p>Sou desenvolvedor, programador ou software developer, como preferir.</p>
+<p>Já fui desenvolvedor, e atualmente atuo no mercado de marketing digital, onde eu me encontrei ;).</p>
 
 <p align="left">
 <a href="https://github.com/thedevnicolas">
@@ -9,9 +9,7 @@
 
 ## about.me
 <p align="justify">
-Uma pequena introdução sobre mim: Sou um jovem nascido no sudeste do Brasil, cujo desejo é crescer profissionalmente e como pessoa, sou um grande entusiasta quando se trata de livros, músicas e arte, e muito fã de tecnologia e jogos.
-
-No momento, estou estudando Desenvolvimento Web Front-End mas com vontade de trabalhar na área de Back-End também futuramente, quero poder ajudar nas soluções de problemas complexos com métodos simples.
+Uma pequena introdução sobre mim: Sou um profissional entusiasmado e determinado, com uma paixão pelo crescimento na área digital. Com um sólido conhecimento em marketing digital e uma afinidade especial por tecnologia, estou sempre pronto para enfrentar novos desafios e expandir minhas habilidades nesse campo dinâmico. Sou um grande entusiasta quando se trata de livros, músicas e arte, e muito fã de tecnologia e jogos.
 </p>
 
  
