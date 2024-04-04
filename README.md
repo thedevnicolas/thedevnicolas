@@ -29,9 +29,8 @@ Uma pequena introdução sobre mim: Sou um profissional entusiasmado e determina
  
 ## social && contact
 <p align="justify">
-<a href="https://www.linkedin.com/in/devnicolasoliveira/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
 <a href="mailto:nicolasoliveira3002@gmail.com"><img src="https://img.shields.io/badge/gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=0077B5"/></a>
-<a href="https://t.me/ironside_man"><img src="https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a>
 </p>
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/51abf316f3774cd974d0b20c766649d2.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
